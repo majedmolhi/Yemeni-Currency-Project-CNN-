@@ -1,0 +1,22 @@
+
+# Resources and External Files
+
+## Dataset
+
+1. Processed Dataset
+   Final dataset after preprocessing, augmentation, and splitting into train, validation, and test sets.  
+   [Google Drive – Yemeni Currency Images Dataset](https://drive.google.com/drive/folders/18qtkm_bCnbaU_MRYu_VMWYF3SYzpC5bG?usp=drive_link)
+
+2. Raw Dataset on Kaggle 
+   Includes original raw images collected manually.  
+   [Kaggle – Yemeni Currency Images Dataset]()
+
+
+
+## Trained Models on Google Drive
+
+- DenseNet121: https://drive.google.com/file/d/1-3rzc5-A2i7hRE8RYGRiGjXZKMe9pTqL/view?usp=sharing
+
+- MobileNet: https://drive.google.com/file/d/1-1UmaCNYjMqgKXo5xWfor4WkGuYXSqRC/view?usp=sharing
+
+
