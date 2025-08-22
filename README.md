@@ -32,3 +32,5 @@ We applied the following augmentations:
 This increased our training data from 1680 to over 10,000 images.
 
 For dataset, trained models, and additional resources, check [Resources.txt](Resources.txt)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16927041.svg)](https://doi.org/10.5281/zenodo.16927041)
